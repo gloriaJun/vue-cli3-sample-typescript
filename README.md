@@ -1,4 +1,7 @@
-# vue-cli3-sample
+# vue-cli3-sample-typescript
+- Vuex
+- Vue-Router
+- TypeScript
 
 ## Project setup
 ```

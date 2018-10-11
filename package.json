@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli3-sample",
+  "name": "vue-cli3-sample-typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,9 +19,12 @@
     "@types/chai": "^4.1.0",
     "@types/mocha": "^5.2.4",
     "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
     "@vue/cli-plugin-typescript": "^3.0.5",
     "@vue/cli-plugin-unit-mocha": "^3.0.5",
     "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.5",
+    "@vue/eslint-config-typescript": "^3.0.5",
     "@vue/test-utils": "^1.0.0-beta.20",
     "chai": "^4.1.2",
     "node-sass": "^4.9.0",
